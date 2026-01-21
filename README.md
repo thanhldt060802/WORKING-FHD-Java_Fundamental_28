@@ -39,7 +39,7 @@
 
 # 4. Nội dung học tập
 
-## 4.1. Cơ bản ([LINK](https://www.notion.so/1-Basic-171e3c27ef3781cd8362ec97e0e94250))
+## 4.1. Cơ bản ([LINK](https://local-tip-3d2.notion.site/1-Basic-2efe3c27ef37801fab6ff01bdacb4b70))
 
 - Lệnh in cơ bản.
     - Hàm `println()`.
@@ -73,7 +73,7 @@
     - Hàm yêu cầu trả dữ liệu và không trả dữ liệu.
     - Bội số (bộ số/đa tham số) trong hàm.
 
-## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
+## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
 - Buổi 13: Làm bài tập.
     - Làm bài tập OOP 2.3 trên Notion.
@@ -153,7 +153,7 @@
 - Buổi 42 (26/12): Ôn tập (tt).
     - Bài tập 18 (Web Notion): Xử lý dữ liệu dùng Collection và Stream (tt).
 
-## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
+## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 - Buổi 43 (29/12): Làm quen với MySQL, Các thao tác dữ liệu cơ bản.
     - Bài 3.1: Kiểu dữ liệu trong MySQL và các cú pháp cơ bản.
     - Bài 3.2: Các thao tác cơ bản với dữ liệu trong bảng.
@@ -162,7 +162,7 @@
 - Buổi 45 (05/01): Các chức năng xử lý dữ liệu đặc trưng trong MySQL.
     - Bài 3.3: Các chức năng xử lý dữ liệu đặc trưng trong MySQL.
 
-## 4.4. Tương tác với hệ cơ sở dữ liệu bằng Java ([LINK](https://local-tip-3d2.notion.site/4-Java-MySQL-171e3c27ef37817495d6f57896aa34e7?pvs=74))
+## 4.4. Tương tác với hệ cơ sở dữ liệu bằng Java ([LINK](https://local-tip-3d2.notion.site/4-MySQL-JDBC-2efe3c27ef3780f78364cc1dca338e48))
 - Buổi 46 (07/01): Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC, Thực hiện CRUD cơ bản (p1).
     - Bài 4.1: Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC.
     - Bài 4.2: Thực hiện CRUD cơ bản (p1).
@@ -179,6 +179,7 @@
 
 # 6. Tham khảo mở rộng
 
-- Cấu trúc dữ liệu và giải thuật ([LINK](https://local-tip-3d2.notion.site/Data-Strutures-And-Algorithms-2c5e3c27ef3780ba91a6fce38797ecd9?pvs=73)).
-- Lập trình ứng dụng Desktop - Swing ([LINK](https://local-tip-3d2.notion.site/Java-Desktop-App-Swing-2c4e3c27ef37801aa865c29759a4ee20?pvs=74)).
-- Lập trình ứng dụng Web - Servlet ([LINK](https://local-tip-3d2.notion.site/Java-Web-App-Servlet-2c4e3c27ef3780889449cbc60a37dba1?pvs=74)).
+- Java Fundamental (Advanced): ([LINK](https://local-tip-3d2.notion.site/Advanced-Skill-2c5e3c27ef3780149859d3f5a0cba2a9?pvs=74)).
+- Data Strutures And Algorithms ([LINK](https://local-tip-3d2.notion.site/Data-Strutures-And-Algorithms-2c5e3c27ef3780ba91a6fce38797ecd9?pvs=73)).
+- Java Desktop App - Swing ([LINK](https://local-tip-3d2.notion.site/Java-Desktop-App-Swing-2c4e3c27ef37801aa865c29759a4ee20?pvs=74)).
+- Java Web App - Servlet ([LINK](https://local-tip-3d2.notion.site/Java-Web-App-Servlet-2c4e3c27ef3780889449cbc60a37dba1?pvs=74)).
